@@ -12,27 +12,27 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Unabo 블로그"
+title                    : "Web Publisher Work 💡"
 title_separator          : "|"
 subtitle                 : # "positive action"
-name                     : "Jeemin"
-description              : "Unabo 블로그입니다"
+name                     : "Jimin"
+description              : # ""
 url                      : "https://draw-img.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/una_88.jpg"
+logo                     : "/assets/images/rabbit.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : "unabo-blog"
+    shortname            : # ""
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jeemin"
-  avatar           : "/assets/images/una_88.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Jimin"
+  avatar           : "/assets/images/rabbit.jpg" # path of avatar image, e.g. "/assets/images/rabbit.jpg"
   bio              : "**공부노트** 매일 기록하기"
   location         : "Republic of Korea"
-  email            : # jeemi2981@gmail.com
+  email            : # dncl46@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
