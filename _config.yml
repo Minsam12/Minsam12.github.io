@@ -108,11 +108,11 @@ author:
   avatar           : "/assets/images/rabbit.jpg" # path of avatar image, e.g. "/assets/images/rabbit.jpg"
   bio              : "**공부노트** 매일 기록하기"
   location         : "Republic of Korea"
-  email            : # dncl46@gmail.com
+  email            : "dncl46@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url:  "mailto:jeemi2981@email.com"
+      url:  "mailto:dncl46@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -124,7 +124,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/unabo"
+      url: "https://github.com/draw-img"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -143,7 +143,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/unabo"
+      url: "https://github.com/draw-img"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
